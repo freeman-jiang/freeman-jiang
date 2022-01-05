@@ -2,9 +2,7 @@
 
 <!-- [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription) -->
 
-### An 18 year old developer from Canada
-
-Under construction...
+I'm currently a frontend developer at [Seeko](https://www.getseeko.com/) and diving into full stack Ethereum development while studying computer science at the University of Waterloo. In my free time, I enjoy calisthenics, rock climbing, and producing [electronic music](https://www.youtube.com/channel/UCPoov46cB1Ae7XQzM6wM_Jw).
 
 <!--
 **freeman-jiang/freeman-jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
