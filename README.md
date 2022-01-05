@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey there! I'm [Freeman](https://freemanjiang.com/) 👋
+
+<!-- [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription) -->
+
+### An 18 year old developer from Canada
+
+Under construction...
 
 <!--
 **freeman-jiang/freeman-jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
