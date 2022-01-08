@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm [Freeman](https://freemanjiang.com/)!
 
-<a href="google.com" title="This is a test"><img src="/assets/LinkedInSM.svg" width="101" height="25" aria-hidden="true"></a>
+<a href="google.com" title="This is a test"><img src="/assets/LinkedInSM.svg" width="102" height="25" aria-hidden="true"></a>
 <a href="google.com" title="This is a test"><img src="/assets/TwitterSM.svg" width="91" height="25" aria-hidden="true"></a>
 <a href="google.com" title="This is a test"><img src="/assets/GmailSM.svg" width="92" height="25" aria-hidden="true"></a>
 ### 1B Computer Science at the University of Waterloo 
