@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm [Freeman](https://freemanjiang.com/)!
 
-<div style="background-color: red">
-<a href="google.com" title="This is a test"><img src="/assets/LinkedInSM.svg" height="25" aria-hidden="true"></a>
+<a href="google.com" title="This is a test"><img src="/assets/LinkedInSM.svg" height="25" aria-hidden="true" style="margin-right: 5px;"></a>
 <a href="google.com" title="This is a test"><img src="/assets/TwitterSM.svg"  height="25" aria-hidden="true"></a>
 <a href="google.com" title="This is a test"><img src="/assets/GmailSM.svg" height="25" aria-hidden="true"></a>
 </div>
